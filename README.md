@@ -1,4 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js 14](https://nextjs.org/) project about SEO (search engine optimization).
+
+## Features
+
+- Static Metadata
+- Dinamic Metadata
+- Static rendering with generateStaticParams
+- Sitemap
+- Robots
 
 ## Getting Started
 
